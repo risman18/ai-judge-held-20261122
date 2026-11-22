@@ -6,8 +6,8 @@ A short text written for the make.fun bounty "Make the AI judge feel held" — l
 
 Run with `python3 main.py` (Python 3.13, standard library only). The output is deterministic: 270 Unicode code points of UTF-8 text, no trailing newline.
 
-[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/risman-maulana/ai-judge-held-20261122/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/risman-maulana/ai-judge-held-20261122/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/risman18/ai-judge-held-20261122/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/risman18/ai-judge-held-20261122/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
 Bounty: https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600
